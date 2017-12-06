@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <value k="7" a="1" b="0.3" piCount="5.2"/>
+    <star scale="10" random="30"/>
+    <galaxy sleeve="3" starCount="10000"/>
+    <stars>
+        <star size="1" color="0xFFFFFF" chance="0.8"/>
+        <star size="2" color="0xF79A21" chance="0.08"/>
+        <star size="2" color="0xFEFF8C" chance="0.035"/>
+        <star size="3" color="0xFFFCD3" chance="0.02"/>
+        <star size="3" color="0xFFFFFF" chance="0.007"/>
+        <star size="3" color="0xE7FFFF" chance="0.001"/>
+        <star size="3" color="0xD8FEFF" chance="0.00001"/>
+    </stars>
+</config>
